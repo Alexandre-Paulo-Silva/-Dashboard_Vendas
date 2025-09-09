@@ -23,6 +23,14 @@ Este projeto é um painel interativo desenvolvido com [Streamlit](https://stream
 
 ---
 
+## 🖼️ Exemplo da Interface
+
+Abaixo está uma prévia da dashboard em funcionamento:
+
+![Dashboard Comercial](<img width="1832" height="988" alt="image" src="https://github.com/user-attachments/assets/52793596-7806-407e-92ba-1d1d4d5dae32" />
+)
+
+
 ## 🧰 Tecnologias utilizadas
 
 - Python 3.13+
